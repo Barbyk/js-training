@@ -7,6 +7,11 @@
  */
 
 // Your code :
+const id =(valeur)=>{
+	return valeur
+}
+	
+
 
 //* Begin of tests
 const assert = require('assert')
